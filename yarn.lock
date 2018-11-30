@@ -1031,6 +1031,10 @@ koa-is-json@^1.0.0:
   version "1.0.0"
   resolved "http://r.cnpmjs.org/koa-is-json/download/koa-is-json-1.0.0.tgz#273c07edcdcb8df6a2c1ab7d59ee76491451ec14"
 
+koa-jsonp@^2.0.2:
+  version "2.0.2"
+  resolved "http://r.cnpmjs.org/koa-jsonp/download/koa-jsonp-2.0.2.tgz#4394214403facfd61d7df2466292c9fb0f6bf082"
+
 koa-mysql-session@^0.0.2:
   version "0.0.2"
   resolved "http://r.cnpmjs.org/koa-mysql-session/download/koa-mysql-session-0.0.2.tgz#b7f32f4dd2c37a5f7992261797c59373704edc89"

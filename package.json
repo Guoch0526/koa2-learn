@@ -7,6 +7,7 @@
     "ejs": "^2.6.1",
     "koa": "^2.6.2",
     "koa-bodyparser": "3",
+    "koa-jsonp": "^2.0.2",
     "koa-mysql-session": "^0.0.2",
     "koa-session-minimal": "^3.0.4",
     "koa-session-mongoose": "^2.0.5",
